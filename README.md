@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilkingc&label=Profile%20views&color=0e75b6&style=flat" alt="wilkingc" /> </p>
 
 
-- 🔭 I’m currently working on **Deep Learning!**
+- 🔭 I’m currently working on **Geospatial Analysis!**
 
 - 🌱 I’m currently learning **Data Science at Deep Dive.**
 
