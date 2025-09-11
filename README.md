@@ -6,19 +6,19 @@
 
 - 🔭 I’m currently studying to obtain my **Network+**
 
-- 🌱 I’m currently learning **Data Science at Deep Dive.**
+- 🌱 I’m currently learning **Networks & Security.**
 
 - 👯 I’m looking to collaborate on **CyberSec, Science Ethics and fun stuff.**
 
-- 🤝 I’m looking for help with **ML, LLMs and CyberSec**
+- 🤝 I’m looking for help with **ML,Networks and CyberSec**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wilkingc/ddc-datascience](https://github.com/Wilkingc/ddc-datascience)
 
-- 💬 Ask me about **Business and the warm waters of Dominican Republic!**
+- 💬 Ask me about **Business, Tech and the warm waters of Dominican Republic!**
 
 - 📫 How to reach me **wilking000@gmail.com**
 
-- ⚡ Fun fact **I play the bass guitar tuned to my cat's meows! Thanks**
+- ⚡ Fun fact **I play the bass guitar to my cat's meows! Thanks, Thanks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
