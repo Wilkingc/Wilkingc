@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wilkingc/ddc-datascience](https://github.com/Wilkingc/ddc-datascience)
 
-- 💬 Ask me about **Business, Tech and the warm waters of Dominican Republic!**
+- 💬 Ask me about **Business, Tech and the warm waters of The Dominican Republic!**
 
 - 📫 How to reach me **wilking000@gmail.com**
 
