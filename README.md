@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wil</h1>
-<h3 align="center">A passionate Data Science student from NM.</h3>
+<h3 align="center">A passionate IT student learning to manage and secure systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilkingc&label=Profile%20views&color=0e75b6&style=flat" alt="wilkingc" /> </p>
 
